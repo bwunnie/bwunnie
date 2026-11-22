@@ -10,6 +10,7 @@
 
   </tr>
 </table>
-<img width="1076" height="75" alt="image" src="https://github.com/user-attachments/assets/a4bf49a6-7e58-4d15-bc4d-16802b77e4b7" />
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31riqcmoglmsrinrtuobuotxkuki&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31riqcmoglmsrinrtuobuotxkuki&redirect=true)
+
+<img width="1076" height="75" alt="image" src="https://github.com/user-attachments/assets/a4bf49a6-7e58-4d15-bc4d-16802b77e4b7" />
