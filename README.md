@@ -1,6 +1,6 @@
 <img width="1076" height="75" alt="image" src="https://github.com/user-attachments/assets/a4bf49a6-7e58-4d15-bc4d-16802b77e4b7" />
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A0B2B8&background=60605266&width=535&height=60&lines=Drunken+monologues%2C+confused+because;it's+not+like+im+falling+in+love%2C;I+just+want+you+to+do+me+no+good;and+you+look+like+you+could+%E2%99%A1" alt="Typing SVG" /></a>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A0B2B8&background=60605266&width=535&height=60&lines=Drunken+monologues%2C+confused+because;it's+not+like+im+falling+in+love%2C;I+just+want+you+to+do+me+no+good;and+you+look+like+you+could+%E2%99%A1" alt="Typing SVG" /></a>
 
 <img width="1050" height="550" alt="image" src="https://github.com/user-attachments/assets/6d9f57ee-d73b-4979-8e59-7fd07aff9966" />
 
